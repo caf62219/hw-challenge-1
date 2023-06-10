@@ -9,7 +9,8 @@
     Follow the following url to the website: 
 
 # Usage
-(assets/images/screenshot%202023-06-09%20233831.png)
+'''
+[alt text}(assets/images/screenshot%202023-06-09%20233831.png)'''
 - You can click on the links on the right to navigate the webpage.
 
 # Credits
