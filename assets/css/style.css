@@ -19,6 +19,41 @@ p {
     font-size: 16px;
 }
 
+/*Styling for the header*/
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header h1 .seo {
+    color: #d9dcd6;
+    font-style: normal;
+}
+
+header nav{
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
 /*styling for the footer*/
 footer {
     padding: 30px;
@@ -32,40 +67,6 @@ footer h2 {
 }
 
 /*Class Selectors*/
-/*Styling for the header*/
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
-    font-style: normal;
-}
-
-.header section{
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header section ul {
-    list-style-type: none;
-}
-
-.header section ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
 
 /*background photo*/
 .hero {
@@ -113,7 +114,7 @@ footer h2 {
     font-size: 36px;
 }
 
-/* styling for second section under main*/
+/* styling for aside under main*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
