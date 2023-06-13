@@ -10,7 +10,7 @@
  
 
 # Usage
-'''md![alt text](assets/images/Screenshot%202023-06-09%20233831.png)'''
+![alt screenshot of webpage](assets/images/Screenshot%202023-06-09%20233831.png)
 - You can click on the links on the right to navigate the webpage.
 
 # Credits
